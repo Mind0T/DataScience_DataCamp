@@ -68,12 +68,12 @@ Mi meta es desarrollar un **perfil sólido como Data Scientist**, capaz de anali
 
 ## 👨‍💻 Autor
 
-**Irvin [Tu Apellido]**  
-- Estudiante de Ingeniería en Inteligencia Artificial  
-- Data Science Trainee en DataCamp  
+**Irvin Soriano**  
+- Estudiante de Ingeniería en Inteligencia Artificial ESCOM-IPN
+- Data Science Student en DataCamp  
 - Apasionado por el aprendizaje continuo, la analítica de datos y el machine learning.  
 
-📫 Conéctame en: [Tu correo o LinkedIn]  
+📫 Conéctame en: www.linkedin.com/in/irving-soriano
 
 ---
 
